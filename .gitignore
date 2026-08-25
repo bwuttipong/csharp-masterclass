@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+
+# .NET / Visual Studio
+*.user
+*.suo
+*.userprefs
+.vs/
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Don't commit the original loose zips if present
+# (course-zips/ is the intentional, organized home for them)
+*.zip
+!course-zips/**
