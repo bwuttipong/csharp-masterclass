@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/exercises-code/">
+    <Project Path="exercises-code/Exercise01-Variables/Exercise01-Variables.csproj" />
+    <Project Path="exercises-code/Exercise02-Average/Exercise02-Average.csproj" />
+  </Folder>
+  <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="MyConsoleApp/MyConsoleApp.csproj" />
+</Solution>
